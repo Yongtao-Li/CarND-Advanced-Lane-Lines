@@ -1,4 +1,4 @@
-## Writeup for Advcaned Lane Lines
+## Writeup for Advanced Lane Lines
 
 ## by Yongtao Li
 
